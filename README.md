@@ -1,8 +1,8 @@
 # simple eventmachine + em-websocket chat
-gem install eventmachine
-gem install em-websocket
-gem install middleman
-in project directory
-bundle install
-ruby server.rb
-middleman server
+1. gem install eventmachine
+2. gem install em-websocket
+3. gem install middleman
+###### in project directory
+4. bundle install
+5. ruby server.rb
+6. middleman server
